@@ -1,0 +1,22 @@
+[0.597s] Invoking command in '/home/surajpatra/ros2_ws_suraj/src/py_topic': PYTHONPATH=/home/surajpatra/ros2_ws_suraj/build/py_topic/prefix_override:/home/surajpatra/ros2_ws_suraj/install/py_topic/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_topic build --build-base /home/surajpatra/ros2_ws_suraj/build/py_topic/build install --record /home/surajpatra/ros2_ws_suraj/build/py_topic/install.log --install-scripts $base/lib/py_topic --single-version-externally-managed install_data
+[0.751s] running egg_info
+[0.752s] writing ../../build/py_topic/py_topic.egg-info/PKG-INFO
+[0.755s] writing dependency_links to ../../build/py_topic/py_topic.egg-info/dependency_links.txt
+[0.756s] writing entry points to ../../build/py_topic/py_topic.egg-info/entry_points.txt
+[0.756s] writing requirements to ../../build/py_topic/py_topic.egg-info/requires.txt
+[0.756s] writing top-level names to ../../build/py_topic/py_topic.egg-info/top_level.txt
+[0.783s] reading manifest file '../../build/py_topic/py_topic.egg-info/SOURCES.txt'
+[0.784s] writing manifest file '../../build/py_topic/py_topic.egg-info/SOURCES.txt'
+[0.786s] running build
+[0.786s] running build_py
+[0.786s] running install
+[0.786s] running install_lib
+[0.787s] running install_data
+[0.787s] running install_egg_info
+[0.789s] removing '/home/surajpatra/ros2_ws_suraj/install/py_topic/lib/python3.8/site-packages/py_topic-0.0.0-py3.8.egg-info' (and everything under it)
+[0.789s] Copying ../../build/py_topic/py_topic.egg-info to /home/surajpatra/ros2_ws_suraj/install/py_topic/lib/python3.8/site-packages/py_topic-0.0.0-py3.8.egg-info
+[0.793s] running install_scripts
+[0.809s] Installing py_pub_spiral script to /home/surajpatra/ros2_ws_suraj/install/py_topic/lib/py_topic
+[0.809s] Installing py_sub_spiral script to /home/surajpatra/ros2_ws_suraj/install/py_topic/lib/py_topic
+[0.809s] writing list of installed files to '/home/surajpatra/ros2_ws_suraj/build/py_topic/install.log'
+[0.826s] Invoked command in '/home/surajpatra/ros2_ws_suraj/src/py_topic' returned '0': PYTHONPATH=/home/surajpatra/ros2_ws_suraj/build/py_topic/prefix_override:/home/surajpatra/ros2_ws_suraj/install/py_topic/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/py_topic build --build-base /home/surajpatra/ros2_ws_suraj/build/py_topic/build install --record /home/surajpatra/ros2_ws_suraj/build/py_topic/install.log --install-scripts $base/lib/py_topic --single-version-externally-managed install_data

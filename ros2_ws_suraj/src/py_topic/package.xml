@@ -1,0 +1,13 @@
+<package format="3">
+  <name>py_topic</name>
+  <depend>rclpy</depend>
+  <depend>std_msgs</depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+    <exec_depend>py_pub_spiral</exec_depend>
+    <exec_depend>py_sub_spiral</exec_depend>
+  </export>
+
+</package>
+
